@@ -10,7 +10,7 @@ color measlesColor = red;
 color white = 255;
 color colorReset = white;
 float measlesX, measlesY, measlesDiameter;
-void setup() {
+void setup() { 
   size (700, 500);
   //fullScreen();
   println("Screen Width is", displayWidth, "Screen Height is", displayHeight);
